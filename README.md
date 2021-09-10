@@ -18,6 +18,8 @@ Tenemos que crear una aplicación que muestre la carga de nuestros servidores 1,
 
 ![Ejemplo](./assets/spec.png "Ejemplo")
 
+Como el cliente no sabe de desarrollo nos pidió que despleguemos nuestra aplicación en algún lado y le mandemos un link para ver el progreso.
+
 ## Corriendo el proyecto
 ```bash
 # Instalar dependencias del proyecto
